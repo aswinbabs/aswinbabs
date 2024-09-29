@@ -24,7 +24,7 @@ Greetings!  I'm Aswin Babu K , an Embedded Systems enthusiast with a solid found
 
 ## Get in Touch
 
-- 📧 Email: aswinbabuk398@gmail.com
+- 📧 Email: aswinbabzzzz@gmail.com
 - 🌐 LinkedIn: www.linkedin.com/in/aswin-babu-k
 
 
