@@ -1,6 +1,6 @@
 ![Header](./assets/github-header-image.png)
 
-![version :0.0.1](https://img.shields.io/github/v/release/aswinbabs/aswinbabs?style=for-the-badge) &nbsp;
+![version: 0.0.1](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)
 ![visitors](https://api.visitorbadge.io/api/visitors?path=aswinbabs&countColor=%23697689&style=for-the-badge) &nbsp;
 [![GitHub GregSithole](https://img.shields.io/github/followers/aswinbabs?label=follow&style=for-the-badge)](https://github.com/aswinbabs) &nbsp;
 
