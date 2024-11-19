@@ -1,3 +1,9 @@
+![Header](./assets/github-header-image.png)
+
+![version :0.0.1](https://img.shields.io/github/v/release/aswinbabs/aswinbabs?style=for-the-badge) &nbsp;
+![visitors](https://api.visitorbadge.io/api/visitors?path=aswinbabs&countColor=%23697689&style=for-the-badge) &nbsp;
+[![GitHub GregSithole](https://img.shields.io/github/followers/aswinbabs?label=follow&style=for-the-badge)](https://github.com/aswinbabs) &nbsp;
+
 # About Me
 
 Greetings!  I'm Aswin Babu K , an Embedded Systems enthusiast with a solid foundation in both academia and practical applications.
