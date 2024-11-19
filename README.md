@@ -2,9 +2,9 @@
 
 ![version: 0.0.1](https://img.shields.io/badge/version-0.0.1-blue?style=for-the-badge)
 ![visitors](https://api.visitorbadge.io/api/visitors?path=aswinbabs&countColor=%23697689&style=for-the-badge) &nbsp;
-[![GitHub aswinbabs](https://img.shields.io/github/followers/aswinbabs?label=follow&style=for-the-badge)](https://github.com/aswinbabs) &nbsp;
+[![GitHub aswinbabs](https://img.shields.io/github/followers/aswinbabs?label=follow&style=for-the-badge)](https://github.com/aswinbabs) 
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp; About Me
 
 - 💻 I’m currently an embedded engineer pursuing professional training at [SMEClabs](https://www.smeclabs.com/)  
 - 🌱 I’m currently exploring project-based learning approaches  
