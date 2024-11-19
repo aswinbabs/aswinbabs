@@ -4,9 +4,15 @@
 ![visitors](https://api.visitorbadge.io/api/visitors?path=aswinbabs&countColor=%23697689&style=for-the-badge) &nbsp;
 [![GitHub GregSithole](https://img.shields.io/github/followers/aswinbabs?label=follow&style=for-the-badge)](https://github.com/aswinbabs) &nbsp;
 
-# About Me
+### 👨🏻‍💻 &nbsp;About Me
 
-Greetings!  I'm Aswin Babu K , an Embedded Systems enthusiast with a solid foundation in both academia and practical applications.
+- 💻 I’m currently an embedded engineer pursuing professional training at [SMEClabs](https://www.smeclabs.com/)  
+- 🌱 I’m currently exploring project-based learning approaches  
+- 👯 I’m looking to collaborate on embedded C/C++ projects, IoT applications, and hardware-software integration challenges  
+- 📍 Location: Kerala, India  
+- ⚡ Fun fact: I enjoy solving real-world problems using microcontrollers and learning new embedded technologies!
+---
+
 
 ## Educational Background
 
