@@ -6,7 +6,6 @@
 
 ### 👨🏻‍💻 &nbsp; About Me
 
-- 💻 I’m currently an embedded engineer pursuing professional training at [SMEClabs](https://www.smeclabs.com/)  
 - 🌱 I’m currently exploring project-based learning approaches  
 - 👯 I’m looking to collaborate on embedded C/C++ projects, IoT applications, and hardware-software integration challenges  
 - 📍 Location: Kerala, India  
